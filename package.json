@@ -2,6 +2,7 @@
   "name": "tenzies",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://crest-vishalpatel.github.io/tenzies",
   "type": "module",
   "scripts": {
     "dev": "vite",
